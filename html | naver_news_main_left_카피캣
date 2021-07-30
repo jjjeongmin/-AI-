@@ -1,0 +1,246 @@
+<div class="news_left">
+
+				<div class="news_main_wrap news_custom">
+					<div class="news_main_header news_flex_between">
+						<div class="news_main_header_left news_flex_start">
+							<h3><a href="#">헤드라인 뉴스</a></h3>
+							<ul class="news_flex_start">
+								<li><a href="#">헤드라인 뉴스의 각 기사묶음 타이틀은 기사 내용을 기반으로 자동 추출됩니다.</a></li>
+							</ul>
+						</div>
+
+						<div class="news_main_header_right news_flex_end">
+							<i class="icon_1"></i>
+							<i class="icon_2"></i>
+							<i class="icon_3"></i>
+						</div>
+					</div>
+
+					<div class="news_main_body news_flex_start">
+						<div class="image_wrap">
+							<img src="https://via.placeholder.com/220x140">
+							<h4>[단독] 동해물과 백두산이 마르고 닳도록</h4>
+						</div>
+
+						<ul class="news_lists">
+							<li>
+								<a href="#">title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1title 1 title 1 title 1 title 1 title 1 </a> <i></i>
+								
+							</li>
+							<li>
+								<a href="#">title 2</a> <i></i>
+								
+							</li>
+							<li>
+								<a href="#">title 3</a> <i></i>
+								
+							</li>
+							<li>
+								<a href="#">title 4</a> <i></i>
+								
+							</li>
+							<li>
+								<a href="#">title 5</a> <i></i>
+								
+							</li>							
+						</ul>
+					</div>
+
+				</div>
+
+				<div class="news_main_wrap">
+					<div class="news_main_header">
+						<div class="news_main_header_left news_flex_start">
+							<h3><a href="#">정치</a></h3>
+							<ul class="news_flex_start">
+								<li><a href="#">일반</a></li>
+								<li><a href="#">국회/정당</a></li>
+								<li><a href="#">청와대</a></li>
+							</ul>
+						</div>
+
+						<div class="news_main_header_right news_flex_end">
+							<i class="icon_1"></i>
+							<i class="icon_2"></i>
+							<i class="icon_3"></i>
+						</div>
+					</div>
+
+					<div class="news_main_body news_flex_start">
+						<div class="image_wrap">
+							<img src="https://via.placeholder.com/220x140">
+							<h4>[단독] 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록</h4>
+						</div>
+
+						<ul class="news_lists">
+							<li>
+								<a href="#">title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1title 1 title 1 title 1 title 1 title 1</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 2</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 3</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 4</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 5</a>
+								<span>국민일보</span>
+							</li>							
+						</ul>
+					</div>
+
+				</div>
+
+				<div class="news_main_wrap">
+					<div class="news_main_header">
+						<div class="news_main_header_left news_flex_start">
+							<h3><a href="#">정치</a></h3>
+							<ul class="news_flex_start">
+								<li><a href="#">일반</a></li>
+								<li><a href="#">국회/정당</a></li>
+								<li><a href="#">청와대</a></li>
+							</ul>
+						</div>
+
+						<div class="news_main_header_right news_flex_end">
+							<i class="icon_1"></i>
+							<i class="icon_2"></i>
+							<i class="icon_3"></i>
+						</div>
+					</div>
+
+					<div class="news_main_body news_flex_start">
+						<div class="image_wrap">
+							<img src="https://via.placeholder.com/220x140">
+							<h4>[단독] 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록</h4>
+						</div>
+
+						<ul class="news_lists">
+							<li>
+								<a href="#">title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1title 1 title 1 title 1 title 1 title 1</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 2</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 3</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 4</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 5</a>
+								<span>국민일보</span>
+							</li>							
+						</ul>
+					</div>
+
+				</div>
+
+				<div class="news_main_wrap">
+					<div class="news_main_header">
+						<div class="news_main_header_left news_flex_start">
+							<h3><a href="#">정치</a></h3>
+							<ul class="news_flex_start">
+								<li><a href="#">일반</a></li>
+								<li><a href="#">국회/정당</a></li>
+								<li><a href="#">청와대</a></li>
+							</ul>
+						</div>
+
+						<div class="news_main_header_right news_flex_end">
+							<i class="icon_1"></i>
+							<i class="icon_2"></i>
+							<i class="icon_3"></i>
+						</div>
+					</div>
+
+					<div class="news_main_body news_flex_start">
+						<div class="image_wrap">
+							<img src="https://via.placeholder.com/220x140">
+							<h4>[단독] 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록</h4>
+						</div>
+
+						<ul class="news_lists">
+							<li>
+								<a href="#">title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1title 1 title 1 title 1 title 1 title 1</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 2</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 3</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 4</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 5</a>
+								<span>국민일보</span>
+							</li>							
+						</ul>
+					</div>
+
+				</div>
+
+				<div class="news_main_wrap">
+					<div class="news_main_header">
+						<div class="news_main_header_left news_flex_start">
+							<h3><a href="#">세계</a></h3>
+						</div>
+
+						<div class="news_main_header_right news_flex_end">
+							<i class="icon_1"></i>
+							<i class="icon_2"></i>
+							<i class="icon_3"></i>
+						</div>
+					</div>
+
+					<div class="news_main_body news_flex_start">
+						<div class="image_wrap">
+							<img src="https://via.placeholder.com/220x140">
+							<h4>[단독] 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록 동해물과 백두산이 마르고 닳도록</h4>
+						</div>
+
+						<ul class="news_lists">
+							<li>
+								<a href="#">title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1 title 1title 1 title 1 title 1 title 1 title 1</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 2</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 3</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 4</a>
+								<span>국민일보</span>
+							</li>
+							<li>
+								<a href="#">title 5</a>
+								<span>국민일보</span>
+							</li>							
+						</ul>
+					</div>
+
+				</div>
+
+			</div>
