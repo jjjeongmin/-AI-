@@ -1,0 +1,114 @@
+<div class="news_right">
+
+				<div id="news_popular">
+					<div class="news_popular_header news_flex_between">
+						<div>
+							<h3>언론사별 가장 많이 본 뉴스</h3>
+							<p>오후 11시 ~ 오전 2시 웅앵웅</p>
+						</div>
+
+						<span>더보기</span>
+					</div>
+					
+					<ul class="news_popular_lists">
+						<li class="news_flex_between">
+							<div class="news_popular_info">
+								<h4><a href="#">무죄가 뒤집혀졌다.</a></h4>
+								<i></i><span>경향신문</span>
+							
+							</div>
+							<img src="https://via.placeholder.com/88x60">
+						</li>
+					</ul>
+					<ul class="news_popular_lists">
+						<li class="news_flex_between">
+							<div class="news_popular_info">
+								<h4><a href="#">무죄가 뒤집혀졌다.</a></h4>
+								<i></i><span>경향신문</span>
+							
+							</div>
+							<img src="https://via.placeholder.com/88x60">
+						</li>
+					</ul>
+					<ul class="news_popular_lists">
+						<li class="news_flex_between">
+							<div class="news_popular_info">
+								<h4><a href="#">무죄가 뒤집혀졌다.</a></h4>
+								<i></i><span>경향신문</span>
+							
+							</div>
+							<img src="https://via.placeholder.com/88x60">
+						</li>
+					</ul>
+					<ul class="news_popular_lists">
+						<li class="news_flex_between">
+							<div class="news_popular_info">
+								<h4><a href="#">무죄가 뒤집혀졌다.</a></h4>
+								<i></i><span>경향신문</span>
+							
+							</div>
+							<img src="https://via.placeholder.com/88x60">
+						</li>
+					</ul>
+					<ul class="news_popular_lists">
+						<li class="news_flex_between">
+							<div class="news_popular_info">
+								<h4><a href="#">무죄가 뒤집혀졌다.</a></h4>
+								<i></i><span>경향신문</span>
+							
+							</div>
+							<img src="https://via.placeholder.com/88x60">
+						</li>
+					</ul>
+				</div>
+
+				<div class="news_banner"></div>
+				
+				<div id="news_today">
+					
+					<div class="news_today_haeder news_flex_start">
+						<h3>TODAY</h3>
+						<span>07.30 (금)</span>
+					</div>
+
+					<div class="news_today_body">
+						<ul class="news_notice_lists">
+							<li>
+								<h4>공지</h4>
+								<p>뉴스홈 헤드라인 비로그인 추천 변경</p>
+							</li>
+							<li>
+								<h4>날씨</h4>
+								<p>실시간 기상 정보 확인하기</p>
+							</li>
+							<li>
+								<h4>운세</h4>
+								<p>오늘의 띠별 운세 확인하기</p>
+							</li>
+						</ul>
+
+						<div class="news_stock_wrap">
+							<ul class="news_stock_lists news_flex_between">
+								<li>
+									<span>코스피</span>
+									<h3>3,162.28</h3>
+									<em class="down">10.77</em>
+								</li>
+								<li>
+									<span>코스닥</span>
+									<h3>3,162.28</h3>
+									<em class="up">10.77</em>
+								</li>
+							</ul>
+						</div>
+
+						<div class="news_stock_search_wrap news_flex_between">
+							<input type="" placeholder="종목 검색">
+							<button type="button" class="btn_search"></button>
+						</div>
+					</div>
+
+
+				</div>	
+				
+			</div>
