@@ -1,0 +1,77 @@
+<div class="blog_main_right">
+				
+				<div id="blog_account">
+					<p>네이버를 더 안전하고 편안하게 이용하세요.</p>
+					<a href="#">로그인</a>
+
+					<div class="account_sub">
+						<div class="left">
+							<span>아이디</span>
+							<span>비밀번호 찾기</span>
+						</div>
+						<span>회원가입</span>
+					</div>
+				</div>
+
+				<div id="blog_banner"></div>
+
+
+
+
+
+				<div id="blog_guide">
+					<a href="#">
+						<p>
+							온라인 셀러를 위한<br>
+							<span>블로그 마켓 가입</span>
+						</p>
+
+						<i></i>
+					</a>
+				</div>
+				<div id="blog_guide">
+					<a href="#">
+						<p>
+							꼭 한번 확인해야 할<br>
+							<span>블로그 마켓 가입</span>
+						</p>
+
+						<i></i>
+					</a>
+				</div>
+				<div id="blog_guide">
+					<a href="#">
+						<p>
+							온라인 셀러를 위한<br>
+							<span>블로그 마켓 가입</span>
+						</p>
+
+						<i></i>
+					</a>
+				</div>
+
+				<div id="blog_notice">
+					
+					<div class="blog_notice_title_wrap">
+						<a href="#">
+							<h3>공지사항</h3>
+							<i></i>
+						</a>
+					</div>
+
+					<ul class="blog_notice_lists">
+						<li><a href="#">[안내] 아이템팩토리 정기 점검 안내</a></li>
+						<li><a href="#">[안내] 아이템팩토리 정기 점검 안내</a></li>
+						<li><a href="#">[안내] 아이템팩토리 정기 점검 안내</a></li>
+					</ul>
+				</div>
+
+				<div id="blog_helper">
+					<ul class="blog_helper_lists">
+						<li><a href="#">블로그 앱 간편설치</a></li>
+						<li><a href="#">개발 가이드</a></li>
+						<li><a href="#">블로그 글 권리보호</a></li>
+						<li><a href="#">블로그 스마트봇</a></li>
+					</ul>
+				</div>
+			</div>	
