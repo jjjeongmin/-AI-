@@ -1,0 +1,41 @@
+<header id="news_header">
+
+		<div class="news_container">
+
+			<div class="news_flex_between">
+				<nav class="news_header_left">
+					<ul class="news_flex_start">
+						<li class="on"><a href="#">뉴스</a></li>
+						<li><a href="#">TV연예</a></li>
+						<li><a href="#">스포츠</a></li>
+						<li><a href="#">뉴스스탠드</a></li>
+						<li><a href="#">날씨</a></li>
+					</ul>
+				</nav>
+
+				<div class="news_header_right news_flex_end">
+					<a href="#" class="btn_login">로그인</a>
+					<button type="button" class="btn_menu"></button>
+				</div>
+			</div>
+		</div>
+
+		<nav class="sub_nav">
+			<div class="news_container">
+				<div class="news_flex_between">
+
+					<ul class="news_flex_start">
+						<li><a href="#" class="on">뉴스홈</a></li>
+						<li><a href="#">속보</a></li>
+						<li><a href="#">정치</a></li>
+						<li><a href="#">경제</a></li>
+					</ul>
+					
+					<div class="news_search_wrap news_flex_between">
+						<input type="text" placeholder="뉴스 검색">
+						<button type="button" class="btn_search"></button>
+					</div>
+				</div>
+			</div> 	
+		</nav>
+	</header>
