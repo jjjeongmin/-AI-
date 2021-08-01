@@ -1,0 +1,32 @@
+#blog_footer{
+	padding-top: 40px;
+	padding-bottom: 55px;
+	background-color: #f6f6f6;
+
+	text-align: center;
+}
+
+#blog_footer ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+
+	margin-bottom: 20px;
+}
+
+#blog_footer ul li a:before {
+	content: "";
+	display: inline-block;
+	width: 1px;
+	height: 12px;
+	background-color: #d7d7d7;
+
+	margin: 0 6px;
+
+	vertical-align: -1px;
+}
+
+#blog_footer ul li:first-child a:before{
+	content: initial;
+}
