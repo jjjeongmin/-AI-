@@ -1,0 +1,12 @@
+<footer id="blog_footer">
+		<div class="blog_container">
+			<ul>
+				<li><a href="#">이용약관</a></li>
+				<li><a href="#">이용약관</a></li>
+				<li><a href="#">이용약관</a></li>
+				<li><a href="#">이용약관</a></li>
+			</ul>
+
+			<p>Copyright © NAVER Corp. All Rights Reserved.</p>
+		</div>
+	</footer>
