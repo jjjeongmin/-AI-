@@ -1,0 +1,233 @@
+.blog_border{
+	border: solid 1px #eaeaec;
+}
+
+.blog_main_detail {
+	padding-top: 0;
+	padding-bottom: 100px;
+}
+
+.blog_main_detail #program {
+
+	background-color: #634ea4;
+	padding: 62px 0 50px;
+	color: #ffffff;
+}
+
+.blog_main_detail #program h3 {
+	font-size: 48px;
+	font-weight: 400;
+
+	margin-bottom: 10px;
+
+}
+
+.blog_main_detail #program p {
+	font-size: 16px;
+}
+
+
+.blog_main_detail #program_nav {
+	border-bottom: solid 1px #ebebeb;
+	background-color: #ffffff;
+
+	padding: 10px 0;
+}
+
+
+.blog_main_detail #program_nav .blog_container{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+
+
+.blog_main_detail #program_nav a{
+	font-size: 14px;
+	color: #666;
+}
+
+ 
+.blog_main_detail #program_nav h4{
+	font-weight: 600;
+	
+}
+
+.blog_main_detail #program_nav h4 a{
+	color: #000;
+}
+
+.blog_main_detail #program_nav ul{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.blog_main_detail #program_nav ul li a:before  {
+	content: "";
+	display: inline-block;
+	width: 1px;
+	height: 12px;
+	background-color: #ababab;
+	margin: 0 12px;
+
+	vertical-align: -1px;
+}
+
+
+.blog_main_detail #program_info {
+	background-color: #f8f8f8;
+	padding: 44px 0 36px;
+
+}
+
+.blog_main_detail #program_info .program_info_wrap {
+	display: flex;
+	flex-wrap: wrap;
+
+	margin-bottom: 50px;
+}
+
+.blog_main_detail #program_info .program_info_wrap h4 {
+	font-size: 32px;
+	color: #7d55c8;
+	line-height: 44px;
+
+	margin-right: 40px;
+
+}
+
+.blog_main_detail #program_info .program_txt_wrap p {
+	font-size: 18px;
+	line-height: 28px;
+	color: #262626;
+
+	margin-bottom: 18px;
+}
+
+.blog_main_detail #program_info .program_txt_wrap a {
+	font-size: 13px;
+	color: #7d55c8;
+
+}
+
+.blog_main_detail #program_info .program_msg_box {
+	padding: 20px;
+	background-color: #ffffff;
+
+}
+
+.blog_main_detail #program_info .program_msg_box .from {
+	display: block;
+	font-size: 13px;
+	font-weight: 600;
+	color: #7d55c8;
+
+	margin-bottom: 6px;
+}
+
+.blog_main_detail #program_info .program_msg_wrap {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+.blog_main_detail #program_info .program_msg_wrap .question {
+	width: 810px;
+	font-size: 18px;
+}
+
+.blog_main_detail #program_info .program_msg_wrap .date{
+	color: #693bbc ;
+}
+
+.blog_main_detail #program_info .program_msg_wrap .txt:before{
+	content: '';
+	display: inline-block;
+	width: 1px;
+	height: 18px;
+	background-color: #d5d5d5;
+	vertical-align: -1px;
+
+	margin: 0 9px;
+}
+
+.blog_main_detail #program_info .program_msg_wrap a{
+	display: block;
+	width: 179px;
+	height: 40px;
+	background-color: #7d55c8;
+	color: #fff;
+	line-height: 44px;
+	text-align: center;
+}
+
+.blog_main_detail #program_info .program_msg_wrap a:hover{
+	background-color: rgba(125, 85, 200, 0.8);
+}
+
+.blog_main_detail #program_day {
+	background-color: #fff;
+
+}
+
+.blog_main_detail #program_day .program_day_title_wrap{
+	padding: 36px 0 16px;
+}
+
+.blog_main_detail #program_day .program_day_title_wrap .date{
+	color: #693bbc;
+    font-size: 16px;
+}
+
+.blog_main_detail #program_day .program_day_title_wrap .txt {
+	font-size: 16px;	
+}
+
+.blog_main_detail #program_day .program_day_title_wrap .txt:before{
+	content: '';
+	display: inline-block;
+	width: 1px;
+	height: 18px;
+	background-color: #d5d5d5;
+	vertical-align: -4px;
+
+	margin: 0 9px;
+}
+
+
+.blog_main_detail #program_day .program_day_title_wrap .msg {
+	font-size: 14px;
+	color: #666666;
+}
+
+.blog_main_detail #program_day .program_image_lists {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	width: ;
+}
+
+.blog_main_detail #program_day .program_image_lists li {
+	width: 175px;
+	height: 228px;
+}
+
+.blog_main_detail #program_day .program_image_lists li img {
+	width: 100%;
+	margin-bottom: 15px;
+}
+.blog_main_detail #program_day .program_image_lists li h4 {
+	font-size: 14px;
+	color: #333;
+
+	margin-bottom: 15px;
+}
+
+.blog_main_detail #program_day .program_image_lists li span{
+	font-size: 12px;
+	color: #959595;
+}
