@@ -1,0 +1,180 @@
+<div class="ent_left">
+
+				<div id="ent_media_headline">
+					<ul class="ent_flex_between">
+						<li>
+							<a href="#">
+								<div class="media_top">
+									<img src="https://via.placeholder.com/148x145">
+									<span class="time">03:02</span>
+									<i class="icon_play"></i>
+								</div>
+								<div class="media_bottom">
+									<p>[신곡 MV] BTS (방탄소년단).....</p>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<div class="media_top">
+									<img src="https://via.placeholder.com/148x145">
+									<span class="time">03:02</span>
+									<i class="icon_play"></i>
+								</div>
+								<div class="media_bottom">
+									<p>[신곡 MV] BTS (방탄소년단).....</p>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<div class="media_top">
+									<img src="https://via.placeholder.com/148x145">
+									<span class="time">03:02</span>
+									<i class="icon_play"></i>
+								</div>
+								<div class="media_bottom">
+									<p>[신곡 MV] BTS (방탄소년단).....</p>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<div class="media_top">
+									<img src="https://via.placeholder.com/148x145">
+									<span class="time">03:02</span>
+									<i class="icon_play"></i>
+								</div>
+								<div class="media_bottom">
+									<p>[신곡 MV] BTS (방탄소년단).....</p>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+				<div id="ent_sectioin_1">
+					<ul>
+						<li>
+							<a href="https://via.placeholder.com/148x90" class="ent_flex_between">
+								<img src="">
+								<div class="ent_news_wrap">
+									<h3>mark</h3>
+									<p> Jamaican girls wanna blow it down
+										My Asian girls wanna work it out
+										Turn around, don't talk shh, hush ma
+										Show me something
+										Show me something</p>
+									<div class="bottom_wrap ent_flex_between">
+										<span class="source">TV리포트</span>
+										<span class="count">9</span>
+									</div>
+									
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="https://via.placeholder.com/148x90" class="ent_flex_between">
+								<img src="">
+								<div class="ent_news_wrap">
+									<h3>mark</h3>
+									<p> Jamaican girls wanna blow it down
+										My Asian girls wanna work it out
+										Turn around, don't talk shh, hush ma
+										Show me something
+										Show me something</p>
+									<div class="bottom_wrap ent_flex_between">
+										<span class="source">TV리포트</span>
+										<span class="count">9</span>
+									</div>
+									
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+
+				<div id="ent_sectioin_2">
+					<ul class="ent_flex_between">
+						<li>
+							<a href="https://via.placeholder.com/200x122">
+								<img src="">
+								<h3>J오늘 이마크 23번째 생일입니다 8월2일 아주 중요하고 행복한 날입니다.</h3>
+								<div class="ent_bottom ent_flex_between">
+									<span class="source">TV리포트</span>
+									<span class="count"></span>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="https://via.placeholder.com/200x122">
+								<img src="">
+								<h3>J오늘 이마크 23번째 생일입니다 8월2일 아주 중요하고 행복한 날입니다.</h3>
+								<div class="ent_bottom ent_flex_between">
+									<span class="source">TV리포트</span>
+									<span class="count"></span>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="https://via.placeholder.com/200x122">
+								<img src="">
+								<h3>J오늘 이마크 23번째 생일입니다 8월2일 아주 중요하고 행복한 날입니다.</h3>
+								<div class="ent_bottom ent_flex_between">
+									<span class="source">TV리포트</span>
+									<span class="count"></span>
+								</div>
+							</a>
+						</li>
+					</ul>
+					
+				</div>
+
+				<div id="ent_section_3">
+					<div class="title_wrap ent_flex_between">
+
+						<h3>스타 콘텐츠</h3>
+						<div class="right_wrap ent_flex_end">
+							<div class="count_wrap">
+								<span><em>1</em> / 2</span>
+							</div>
+
+							<div class="btn_wrap ent_flex_end">
+								<button type="button" class="btn btn_prev"></button>
+								<button type="button" class="btn btn_next"></button>
+							</div>
+						</div>
+					</div>
+					<ul class="ent_flex_between">
+						<li>
+							<a href="">
+								<img src="https://via.placeholder.com/148x148">
+								<span>에이치앤드</span>
+								<h3>[금새록] 오월의 새록 오월의 새록 오월의 새록 오월의 새록</h3>
+							</a>
+						</li>
+						<li>
+							<a href="">
+								<img src="https://via.placeholder.com/148x148">
+								<span>에이치앤드</span>
+								<h3>[금새록] 오월의 새록 오월의 새록 오월의 새록 오월의 새록</h3>
+							</a>
+						</li>
+						<li>
+							<a href="">
+								<img src="https://via.placeholder.com/148x148">
+								<span>에이치앤드</span>
+								<h3>[금새록] 오월의 새록 오월의 새록 오월의 새록 오월의 새록</h3>
+							</a>
+						</li>
+						<li>
+							<a href="">
+								<img src="https://via.placeholder.com/148x148">
+								<span>에이치앤드 에이치앤드 에이치앤드 에이치앤드 에이치앤드 에이치앤드 에이치앤드 에이치앤드</span>
+								<h3>[금새록] 오월의 새록 오월의 새록 오월의 새록 오월의 새록</h3>
+							</a>
+						</li
+					</ul>
+				</div>				
+			</div>
