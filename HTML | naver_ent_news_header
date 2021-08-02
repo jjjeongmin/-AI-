@@ -1,0 +1,29 @@
+<header id="ent_header">
+		<div class="ent_flex_between">
+			<div class="ent_header_left">
+				<ul class="ent_flex_start">
+					<li><a href="#">TV연예</a></li>
+					<li><a href="news.html">뉴스</a></li>
+				</ul>
+			</div>
+
+			<div class="ent_header_center">
+				<ul class="ent_flex_center">
+					<li class="on"><a href="#">TV연예</a></li>
+					<li><a href="#">TV연예</a></li>
+					<li><a href="#">TV연예</a></li>
+					<li><a href="#">TV연예</a></li>
+					<li><a href="#">TV연예</a></li>
+					<li><a href="#">TV연예</a></li>
+				</ul>
+				
+			</div>
+
+			<div class="ent_header_right ent_flex_end">
+				<a href="#" class="btn_login">로그인</a>
+				<button type="button" class="btn_menu"></button>
+				<button type="button" class="btn_search"></button>
+				
+			</div>
+		</div>
+	</header>
