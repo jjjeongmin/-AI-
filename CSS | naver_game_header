@@ -1,0 +1,178 @@
+#game_header {
+	width: 100%;
+	background-color: #4e41db;
+}
+
+
+#game_header nav {
+	height: 60px;
+}
+
+#game_header nav .left {
+
+}
+
+#game_header nav .left h1 {
+	font-size: 20px;
+}
+
+#game_header nav .left h1 a{
+	color: #fff;
+}
+
+#game_header nav .left ul {}
+
+#game_header nav .left ul li{
+
+}
+
+#game_header nav .left ul li a {
+	color: #9da5b6;
+	font-size: 18px;
+}
+
+#game_header nav .left ul li a:before {
+	display: inline-block;
+	content: '';
+	width: 1px;
+	height: 14px;
+	border-radius: .5px;
+	background-color: #9da5b6;
+
+	margin: 0 12px;
+}
+
+#game_header nav .right {}
+
+#game_header nav .right .search_wrap{
+	overflow: hidden;
+	width: 300px;
+	border-radius: 20px;
+	background-color: rgba(0,0,0, .28);
+
+}
+
+#game_header nav .right .search_wrap input {
+	width: calc(100% - 38px);
+	height: 38px;
+	padding: 10px 12px 9px 14px;
+	background-color: transparent;
+	border: none;
+
+	color: #ffffff;
+	font-size: 15px;
+}
+
+#game_header nav .right .search_wrap input:focus{
+	outline: none;
+}
+
+#game_header nav .right .search_wrap .btn_search {
+	width: 38px;
+	height: 38px;
+	background-color: transparent;
+	border: none;
+}
+
+#game_header nav .right .ticket_wrap {
+	position: relative;
+	width: 40px;
+	height: 40px;
+
+	margin-left: 10px;
+}
+
+#game_header nav .right .ticket_wrap .btn_ticket {
+	display: block;
+	width: 40px;
+	height: 40px;
+	border: solid 1px #ffffff;
+}
+
+#game_header nav .right .ticket_wrap .bubble_msg {
+	position: absolute;
+	width: 165px;
+	background-color: #697183;
+	border-radius: 8px;
+	padding: 10px 12px;
+	font-size: 14px;
+	color: #ffffff;
+	font-weight: 600;
+
+	top: 50px;
+	left: 50%;
+	transform: translateX(-50%);
+
+	z-index: 100;
+}
+
+#game_header nav .right .btn_login {
+	width: 60px;
+	font-size: 12px;
+	border: solid 1px hsla(0, 0%, 80%, .3);
+	border-radius: 8px;
+	padding: 7px 0 6px;
+	color: #ffffff;
+
+	text-align: center;
+
+	margin-left: 10px;
+}
+
+#game_header .game_events_wrap {
+	padding: 80px 0;
+}
+
+#game_header .game_events_wrap .event_wrap {
+	position: relative;
+	width: 407px;
+	height: 264px;
+
+	border-radius: 40px;
+
+	top: 0;
+	transition: top linear 0.45s;
+}
+
+#game_header .game_events_wrap .event_wrap:hover{
+	top: -20px;
+}
+
+#game_header .game_events_wrap .event_wrap.one{
+	background-color: rgb(112, 104, 236);
+}
+
+#game_header .game_events_wrap .event_wrap.two{
+	background-color: rgb(69, 39, 39);
+}
+
+#game_header .game_events_wrap .event_wrap.three{
+	background-color: rgb(112, 177, 181);
+}
+
+#game_header .game_events_wrap .event_wrap .event_title_wrap{
+	position: absolute;
+	left: 30px;
+	bottom: 30px;
+
+	color: #ffffff;
+}
+
+#game_header .game_events_wrap .event_wrap .event_title_wrap span{
+	display: inline-block;
+	border: solid 1px #fff;
+	border-radius: 10px;
+	padding: 4px 8px 2px;
+
+	font-size: 12px;
+	font-weight: 600;
+
+	text-align: center;
+
+	margin-bottom: 15px;
+
+}
+
+#game_header .game_events_wrap .event_wrap .event_title_wrap h2 {
+	font-size: 20px;
+}
