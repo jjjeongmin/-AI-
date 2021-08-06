@@ -330,7 +330,7 @@
 									</div>
 								</a>
 							</li>
-							<li class="game_m_t_20">
+							<li>
 								<a href="#">
 									<div class="image_wrap"> 
 										<img src="https://via.placeholder.com/263x148">
@@ -550,5 +550,3 @@
 					<a href="#" class="btn_circle icon_plus"></a>
 				</div>
 			</div>
-		</div>
-	</main>
