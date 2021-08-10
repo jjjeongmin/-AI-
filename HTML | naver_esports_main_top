@@ -1,0 +1,99 @@
+<div id="esports_main_top">
+			
+			<div class="esports_container">
+				<div class="timeline_wrap">
+					<ul class="esports_flex_start">
+						<li>
+							<a href="#">
+								<span class="date">오늘 (08.10)</span>
+								<h2>2021 LCK AS 챔피언 폴리그 3일차</h2>
+
+								<div class="status_wrap esports_flex_between">
+									<span class="live">LIVE</span>
+									<span class="status">진행중</span>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="date">오늘 (08.10)</span>
+								<h2>2021 LCK AS 챔피언 폴리그 3일차</h2>
+
+								<div class="status_wrap esports_flex_between">
+									<span class="live">LIVE</span>
+									<span class="status">진행중</span>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="date">오늘 (08.10)</span>
+								<h2>2021 LCK AS 챔피언 폴리그 3일차</h2>
+
+								<div class="status_wrap esports_flex_between">
+									<span class="live">LIVE</span>
+									<span class="status">진행중</span>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="date">오늘 (08.10)</span>
+								<h2>2021 LCK AS 챔피언 폴리그 3일차</h2>
+
+								<div class="status_wrap esports_flex_between">
+									<span class="live">LIVE</span>
+									<span class="status">진행중</span>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="date">오늘 (08.10)</span>
+								<h2>2021 LCK AS 챔피언 폴리그 3일차</h2>
+
+								<div class="status_wrap esports_flex_between">
+									<span class="live">LIVE</span>
+									<span class="status">진행중</span>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="date">오늘 (08.10)</span>
+								<h2>2021 LCK AS 챔피언 폴리그 3일차</h2>
+
+								<div class="status_wrap esports_flex_between">
+									<span class="live">LIVE</span>
+									<span class="status">진행중</span>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="live_wrap">
+					<h2>라이브중인 경기<span class="count">2</span></h2>
+					<ul class="esports_flex_between">
+						<li>
+							<a href="#" class="esports_flex_between">
+								<img src="https://pbs.twimg.com/media/EvsfSihUYAErrWH.jpg">
+								<div class="txt_wrap">
+									<span>진행중</span>
+									<h3>2021 pms s1 weekly final day3</h3>
+								</div>
+							</a>	
+						</li>
+						<li>
+							<a href="#" class="esports_flex_between">
+								<img src="https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2021/05/19/57ff9abc-b883-11eb-9461-e80e43f535ad_image_hires_174446.jpeg">
+								<div class="txt_wrap">
+									<span>진행중</span>
+									<h3>2021 pms s1 weekly final day3</h3>
+								</div>
+							</a>	
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
