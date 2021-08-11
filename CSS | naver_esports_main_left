@@ -1,0 +1,426 @@
+#esports_main .left{
+	float: left;
+	width: 900px;
+}
+
+
+#esports_main_article {
+	overflow: hidden;
+	width: 100%;
+	height: 468px;
+	background-color: grey;
+	border-radius: 10px;
+
+	margin-bottom: 30px;
+}
+
+
+
+
+#esports_main_article .article {
+	position: relative;
+	float: left;
+	width: 50%;
+	height: 50%;
+	
+
+}
+
+#esports_main_article .article.full{
+	height: 100%;
+}
+
+#esports_main_article .article img {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#esports_main_article .article .txt_wrap {
+	position: absolute;
+	width: 100%;
+
+	left: 0;
+	bottom: 0;
+
+	padding: 0 24px 20px;
+	color: #ffffff;
+}
+
+#esports_main_article .article .txt_wrap h3{
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 26px;
+}
+
+#esports_main_article .article .txt_wrap h3:hover{
+	text-decoration: underline;
+
+}
+
+#esports_main_article .article .txt_wrap p {
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 19px;
+	margin-top: 5px;
+}
+
+#esports_main_article .article .txt_wrap .source {
+	display: block;
+	color: hsla(0, 0, 100%, .7);
+	font-size: 13px;
+	margin-top: 10px;
+
+}
+
+.esports_section {
+	border-top: solid 1px grey;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+}
+
+.esports_section .title_wrap {
+	padding: 15px 0;
+}
+
+
+.esports_section .title_wrap h2 {
+	font-size: 18px;
+
+}
+
+#esports_replay .game_menu{
+	margin-bottom: 24px;
+}
+
+#esports_replay .game_menu ul {
+
+}
+
+#esports_replay .game_menu ul li {
+	margin-right: 20px;
+}
+
+#esports_replay .game_menu ul li:last-child {
+	margin-right: 0;
+}
+
+#esports_replay .game_menu ul li a {
+	display: block;
+	width: 60px;
+
+	text-align: center;
+}
+
+#esports_replay .game_menu ul li a.active i {
+	background-color: purple;
+}
+
+#esports_replay .game_menu ul li a.active span{
+	color: purple;
+}
+
+#esports_replay .game_menu ul li i {
+	display: inline-block;
+	width: 60px;
+	height: 80px;
+	background-color: grey;
+	border-radius: 50%;
+	margin-bottom: 6px;
+}
+
+#esports_replay .game_menu ul li span {
+	font-size: 13px;
+
+}
+
+
+#esports_replay .play_lists {
+
+}
+
+#esports_replay .play_lists li {
+	width: 285px;
+	margin-bottom: 24px;
+
+}
+
+#esports_replay .play_lists li:nth-child(4),
+#esports_replay .play_lists li:nth-child(5),
+#esports_replay .play_lists li:nth-child(6){
+	margin-bottom: 0;
+}
+
+#esports_replay .play_lists li a {
+	display: block;
+}
+
+#esports_replay .play_lists li a .image_wrap{
+	position: relative;
+	width: 100%;
+	height: 160px;
+	margin-bottom: 12px;
+}
+
+#esports_replay .play_lists li a .image_wrap img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+#esports_replay .play_lists li a .image_wrap .status_wrap{
+	position: absolute;
+	width: 100%;
+
+	left: 0;
+	bottom: 0;
+
+	padding: 10px;
+}
+
+#esports_replay .play_lists li a .image_wrap .status_wrap i {
+	display: block;
+	width: 20px;
+	height: 20px;
+	background-color: grey;
+}
+#esports_replay .play_lists li a .image_wrap .status_wrap .time{
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 3px 5px;
+	border-radius: 3px;
+	font-size: 11px;
+	color: #fff;
+}
+
+#esports_replay .play_lists li h3 {
+	font-size: 15px;
+}
+
+
+#esports_news {}
+
+#esports_news .article_wrap{
+	align-items: flex-start;
+}
+
+#esports_news .article_wrap .left_lists {
+	width: 472px;
+}
+
+#esports_news .article_wrap .left_lists li {
+	width: 226px;
+}
+
+#esports_news .article_wrap .left_lists li a{
+	display: block;
+
+}
+
+#esports_news .article_wrap .left_lists img {
+	width: 100%;
+	height: 132px;
+	margin-bottom: 9px;
+}
+
+#esports_news .article_wrap .left_lists h3 {
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 21px;
+}
+
+#esports_news .article_wrap .left_lists p {
+	font-size: 14px;
+	color: #777;
+
+}
+
+#esports_news .article_wrap .right_lists {
+	width: 400px;
+
+}
+
+#esports_news .article_wrap .right_lists li {
+	position: relative;
+	margin-bottom: 5px;
+}
+
+#esports_news .article_wrap .right_lists li:before {
+	position: absolute;
+	display: inline-block;
+	content: '';
+	width: 4px;
+	height: 4px;
+	border-radius: 50%;
+	background-color: grey;
+	top: 6px;
+
+}
+
+#esports_news .article_wrap .right_lists li a {
+	display: block;
+	padding-left: 15px;
+}
+
+#esports_news .article_wrap .right_lists img {
+
+}
+
+
+
+
+
+#esports_popular_videos {
+
+}
+#esports_popular_videos .play_lists {
+
+}
+
+#esports_popular_videos .play_lists li {
+	width: 25%;
+	height: 168px;
+	margin-top: 25px;
+
+}
+
+#esports_popular_videos .play_lists li a {
+	display: block;
+}
+
+#esports_popular_videos .play_lists li a .image_wrap{
+	position: relative;
+	width: 228px;
+	height: 117px;
+	/*margin-bottom: 12px;*/
+}
+
+#esports_popular_videos .play_lists li a .image_wrap img{
+	position: absolute;
+	width: 208px;
+	height: 117px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+#esports_popular_videos .play_lists li a .image_wrap .rank{
+	position: absolute;
+	border: solid 1px transparent;
+	border-radius: 6px;
+	font-size: 14px;
+	width: 27px;
+	line-height: 18px;
+
+	background-color: #4e41db;
+	color: #fff;
+	text-align: center;
+	cursor: pointer;
+
+	top: 0;
+	left: 0;
+
+}
+
+#esports_popular_videos .play_lists li a .image_wrap .status_wrap{
+
+	/*padding: 10px;*/
+
+	left: 0;
+	bottom: 0;
+
+}
+
+
+
+#esports_popular_videos .play_lists li a .image_wrap .status_wrap i {
+	position: absolute;
+	display: block;
+	width: 20px;
+	height: 20px;
+	background-color: grey;
+
+	bottom: 5px;
+	left: 10px;
+}
+#esports_popular_videos .play_lists li a .image_wrap .status_wrap .time{
+	position: absolute;
+
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 3px 5px;
+	border-radius: 3px;
+	font-size: 11px;
+	color: #fff;
+
+	bottom: 5px;
+	right: 25px;
+}
+
+#esports_popular_videos .play_lists li h3 {
+	font-size: 15px;
+	margin-top: 5px;
+}
+
+#esports_expert {
+
+}
+
+#esports_expert .title_wrap {
+
+}
+
+#esports_expert .title_wrap h2 {
+
+}
+
+#esports_expert .news_lists{
+
+}
+
+#esports_expert .news_lists li {
+	width: 450px;
+	margin-bottom: 15px;
+}
+
+#esports_expert .news_lists li:nth-child(3),
+#esports_expert .news_lists li:nth-child(4){
+	margin-bottom: 0;
+}
+
+
+#esports_expert .news_lists li a {}
+
+#esports_expert .news_lists li a img {
+	width: 153px;
+	height: 86px;
+	margin-right: 15px;
+}
+
+#esports_expert .news_lists .txt_wrap{
+	width: 268px;
+}
+
+#esports_expert .news_lists .txt_wrap h3 {
+	font-size: 15px;
+	font-weight: 500;
+}
+
+#esports_expert .news_lists .txt_wrap p {
+	font-size: 14px;
+	color: #777777;
+	line-height: 19px;
+	margin-top: 4px;
+
+	display: -webkit-box;
+	overflow: hidden;
+	max-height: 38px;
+	-webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+
+}
+
+#esports_expert .news_lists .txt_wrap .source{
+	font-size: 13px;
+	color: #777777;
+}
