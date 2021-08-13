@@ -1,0 +1,93 @@
+#audio_header .audio_nav_left {
+	width: 660px;
+
+}
+
+#audio_header .audio_nav_left .audio_logo {
+	font-size: 25px;
+}
+
+#audio_header .audio_nav_left .audio_logo a {}
+
+#audio_header .audio_nav_left ul {
+	padding-top: 10px;
+}
+
+#audio_header .audio_nav_left li {
+
+}
+
+#audio_header .audio_nav_left li a {
+	display: block;
+	font-size: 17px;
+	padding: 12px 13px 17px 12px;
+}
+
+#audio_header .audio_nav_left li a.active{
+	font-weight: 700;
+}
+
+
+#audio_header .audio_nav_left li a span{
+	position: relative;
+	display: inline-block;
+	height: 21px;
+}
+
+#audio_header .audio_nav_left li a.active span:after{
+	display: block;
+	position: absolute;
+	content: "";
+	border-bottom: solid 3px #222;
+	border-radius: 1.5px;
+	z-index: 1;
+
+	left: -4.5px;
+	right: -5.5px;
+	bottom: -17px;
+}
+
+#audio_header .audio_nav_right {
+	width: 330px;
+}
+
+#audio_header .audio_nav_right .search_wrap {
+	width: 180px;
+	height: 40px;
+	border: solid 2px rgba(0, 86, 201, .2);
+	border-radius: 4px;
+	background-color: #fff;
+}
+
+#audio_header .audio_nav_right .search_wrap .icon_search {
+	width: 40px;
+	height: 100%;
+	background-color: yellow;
+}
+
+#audio_header .audio_nav_right .search_wrap input {
+	width: calc(100% - 40px);
+	height: 100%;
+	padding: 8px 15px;
+	font-size: 15px;
+	outline: none;
+	border: none;
+}
+
+#audio_header .audio_nav_right .search_wrap input:focus {
+	outline: none;
+}
+
+#audio_header .audio_nav_right .porfile_wrap{
+
+}
+
+#audio_header .audio_nav_right .porfile_wrap .porfile_img {
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+}
+#audio_header .audio_nav_right .porfile_wrap .btn_login {
+	font-size: 15px;
+	padding-left: 8px;
+}
