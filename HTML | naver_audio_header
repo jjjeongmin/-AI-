@@ -1,0 +1,31 @@
+<header id="audio_header">
+		<div class="audio_container">
+			<nav id="auio_nav" class="audio_flex_between">
+				<div class="audio_nav_left audio_flex_between">
+					<h1 class="audio_logo"><a href="#">audio clip</a></h1>
+
+					<ul class="audio_flex_start" >
+						<li><a href="#" class="active"><span>홈</span></a></li>
+						<li><a href="#"><span>랭킹</span></a></li>
+						<li><a href="#"><span>연재 채널</span></a></li>
+						<li><a href="#"><span>오디오북</span></a></li>
+						<li><a href="#"><span>카테고리</span></a></li>
+						<li><a href="#"><span>이벤트</span></a></li>
+					</ul>
+				</div>
+
+				<div class="audio_nav_right audio_flex_between">
+					<div class="search_wrap audio_flex_start">
+						<i class="icon_search"></i>
+						<input type="text" placeholder="무엇을 찾으세요?">
+					</div>
+
+					<div class="porfile_wrap">
+						<img src="https://via.placeholder.com/32" class="porfile_img">
+						<a href="#" class="btn_login">로그인</a>
+					</div>
+					
+				</div>
+			</nav>
+		</div>
+	</header>
