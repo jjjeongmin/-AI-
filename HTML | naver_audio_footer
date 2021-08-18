@@ -1,0 +1,37 @@
+	<footer id="audio_footer">
+
+		<div class="audio_container">
+			<h1>
+				<a href="#">audio clip</a>
+			</h1>
+
+			<div class="copyright_wrap">
+				<p>
+					경고하는데 조심해야 돼 깊을지도 몰라 여럿 봤는데 못 나오던데 왜? 나도 몰라<br>
+					내게 묻지 마 얼마나 깊은지 내 눈은 못 보니까 허우적대는 저 다른 애들과 넌 다르길 바라<br>
+					막 답답하고 숨이 막히고 내게 빠진 거 맞지?
+				</p>
+			</div>
+
+			<nav class="footer_nav">
+				<ul>
+					<li><a href="#">로그인</a></li>
+					<li><a href="#">오디오클립 소개</a></li>
+					<li><a href="#">공식 포스트</a></li>
+					<li><a href="#">콘텐츠 제안</a></li>
+					<li><a href="#">이용약관</a></li>
+					<li><a href="#">개인정보처리방침</a></li>
+					<li><a href="#">책임의 한계와 법적고지</a></li>
+					<li><a href="#">결제관련문의</a></li>
+					<li><a href="#">고객센터</a></li>
+				</ul>
+			</nav>
+			<a href="#" class="footer_copyright_link">
+				<span class="symbol">&copy;</span>
+				네이버
+				<span>Corp.</span>
+			</a>
+			
+		</div>
+		
+	</footer>
