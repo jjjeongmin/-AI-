@@ -1,0 +1,96 @@
+			<div class="audio_main_right"> 
+
+
+				<div id="audio_intro" class="audio_section">
+					<div class="audio_header">
+						<h2>인기 채널을 소개합니다.</h2>
+					</div>
+
+					<div class="audio_body">
+						<ul class="audio_flex_between">
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x152">
+									<h3>공유의 배드타임 스토리</h3>
+									<span class="source">네이	버</span>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x152">
+									<h3>밀레니얼의 시사친구, 듣똑라</h3>
+									<span class="source">중앙그룹</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="audio_discovery" class="audio_section">
+					<div class="audio_header">
+						<h2>오늘의발견 <br>
+						요즘 많이 듣는 채널👍</h2>
+						<p>8월 17일 0시부터 24시까지 많이 들은 채널입니다.</p>
+						<a href="#" class="link_setting">관심 설정</a>
+					</div>
+
+					<div class="audio_body">
+						<ul class="audio_flex_between">
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x152">
+									<h3>클래식 매니저</h3>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x152">
+									<h3>클래식 매니저</h3>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x152">
+									<h3>클래식 매니저</h3>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x152">
+									<h3>클래식 매니저</h3>
+								</a>
+							</li>
+
+						</ul>
+
+						<button type="button" class="btn_more">
+							<span class="color_blue">더 많이</span> 발견하기 1 / <span class="pages">5</span>
+						</button>
+					</div>
+				</div>
+
+				<div id="audio_create">
+					<div class="audio_body">
+						<ul>
+							<li>
+								<a href="#" class="audio_flex_between">
+									<div class="txt_wrap">
+										<h2>오디오클립 채널을 만들어보세요!</h2>
+										<p class="color_blue">콘텐츠 제안하기</p>
+									</div>
+									<div class="list_bg list_bg_1"></div>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="audio_flex_between">
+									<div class="txt_wrap">
+										<h2>즐거움이 들린!오디오클립</h2>
+										<p class="color_purple">콘텐츠 제안하기</p>
+									</div>
+									<div class="list_bg list_bg_2"></div>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
