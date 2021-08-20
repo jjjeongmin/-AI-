@@ -1,0 +1,47 @@
+		<div class="content">
+
+			<div id="content_banner">
+				<div class="layer">
+					<div class="txt_wrap">
+						<h2>HELLO</h2>
+						<p>FUTURE</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="content_container">
+				<div class="video_section">
+					<div class="title_wrap">
+						<h2>취향 저격 생방송 채널</h2>
+					</div>
+
+					<div class="video_wrap">
+						<ul>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
