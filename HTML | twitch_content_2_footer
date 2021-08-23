@@ -1,0 +1,543 @@
+<div class="content_container">
+				<div class="video_section">
+					<div class="title_wrap">
+						<h2>취향 저격 생방송 채널</h2>
+					</div>
+
+					<div class="video_wrap">
+						<ul>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="btn_more font_purple">더보기</button>
+				</div>
+				<div class="video_section">
+					<div class="title_wrap">
+						<h2>추천 <span class="font_purple">Just Chatting</span> 채널</h2>
+					</div>
+
+					<div class="video_wrap">
+						<ul>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="btn_more font_purple">더보기</button>
+				</div>
+				<div class="video_section">
+					<div class="title_wrap">
+						<h2>모두의 후원 열차에 탑승해 주세요!</h2>
+					</div>
+
+					<div class="video_wrap">
+						<ul>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="btn_more font_purple">더보기</button>
+				</div>
+				<div class="video_section">
+					<div class="title_wrap">
+						<h2>추천 <span class="font_purple">League of legends</span> 채널</h2>
+					</div>
+
+					<div class="video_wrap">
+						<ul>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<button type="button" class="btn_more font_purple">더보기</button>
+
+				</div>
+				<div class="video_section">
+					<div class="title_wrap">
+						<h2>추천 <span class="font_purple">StarCraft</span> 채널</h2>
+					</div>
+
+					<div class="video_wrap">
+						<ul>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<div class="image_wrap">
+										<img src="https://via.placeholder.com/333x186">
+										<span class="mark">생방송</span>
+									</div>
+									<div class="video_bottom">
+										<img src="https://via.placeholder.com/40" class="thumbnail">
+										<div class="txt_wrap">
+											<h3>2021 LCK Summer Split</h3>
+											<p class="source">LCK_Korea</p>
+											<p class="game">League of Korea</p>
+
+											<div class="tag_wrap">
+												<span class="tag">e스포츠</span>
+												<span class="tag">한국어</span>
+												<span class="tag">독일어</span>
+												<span class="tag">후원 열차</span>
+											</div>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+
+					<button type="button" class="btn_more font_purple">더보기</button>
+				</div>
+
+				<div class="category_section">
+					<div class="title_wrap">
+						<h2>취향 저격 <span class="font_purple">카테고리</span></h2>
+					</div>
+
+					<div class="category_wrap">
+						<ul>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<img src="https://via.placeholder.com/152x203">
+									<div class="txt_wrap">
+										<h3>에이펙스 레전드</h3>
+										<p class="count">시청자 4.1만명</p>
+
+										<div class="tag_wrap">
+											<span class="tag">e스포츠</span>
+											<span class="tag">한국어</span>
+										</div>
+									</div>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<footer>
+					<div class="txt_wrap">
+						<p>상호명 : 동해물과 백두산이 마르고 닳도록</p>
+						<p>상호명 : 동해물과 백두산이 마르고 닳도록</p>
+						<p>상호명 : 동해물과 백두산이 마르고 닳도록</p>
+						<p>상호명 : 동해물과 백두산이 마르고 닳도록</p>
+					</div>
+					<div class="footer_bottom">
+						<ul>
+							<li><a href="#">지원팀에 문의</a></li>
+							<li><a href="#">판매약관</a></li>
+							<li><a href="#">사업자 정보</a></li>
+						</ul>
+					</div>
+				</footer>
+			</div>
