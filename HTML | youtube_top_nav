@@ -1,0 +1,26 @@
+<nav id="youtube_top_nav">
+
+			<div class="youtube_top_wrap flex_align_between">
+
+				<div class="nav_left flex_align_start">
+					<button class="btn_menu" type="button"></button>
+					<h1><a href="#"><img src="https://via.placeholder.com/90x20"></a></h1>
+				</div>
+
+				<div class="nav_center flex_align_start">
+					<div class="search_wrap flex_align_start">
+						<input type="text" placeholder="검색" >
+						<button class="btn_search" type="button"></button>
+					</div>
+					<button class="btn_voice" type="button"></button>
+				</div>
+
+				<div class="nav_right flex_align_end">
+					<button type="button" class="btn_menu btn_menu_1"></button>
+					<button type="button" class="btn_menu btn_menu_2"></button>
+					<a href="#" class="btn_login">로그인</a>
+
+
+				</div>
+			</div>
+		</nav>
