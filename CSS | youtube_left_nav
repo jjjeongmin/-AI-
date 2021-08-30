@@ -1,0 +1,88 @@
+/*왼쪽 사이드 메뉴*/
+#youtube_left_content{
+	position: absolute;
+	width: 225px;
+	height: 100%;
+}
+
+#youtube_left_content .nav_section{
+	padding: 8px 0;
+	border-bottom: solid 1px rgba(255, 255, 255, 0.1) ;
+}
+
+#youtube_left_content .nav_section .nav_title_wrap{
+	padding: 8px 24px;
+}
+
+#youtube_left_content .nav_section .nav_title_wrap h2 {
+	color: #aaaaaa;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#youtube_left_content .nav_section .nav_body {}
+
+#youtube_left_content .nav_section .nav_body ul{}
+
+#youtube_left_content .nav_section .nav_body li {}
+
+#youtube_left_content .nav_section .nav_body li a {
+	height: 40px;
+	padding: 0 24px;
+}
+
+#youtube_left_content .nav_section .nav_body li .icon {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	background-color: #ffffff;
+	margin-right: 24px;
+}
+
+#youtube_left_content .nav_section .nav_body li span {
+	font-size: 13px;
+	color: #ffffff;
+}
+
+#youtube_left_content .nav_section .nav_body .txt_wrap {
+	padding: 0 24px;
+}
+
+#youtube_left_content .nav_section .nav_body .txt_wrap p {
+	color: #ffffff;
+	font-weight: 400;
+	font-size: 13px;
+}
+
+#youtube_left_content .nav_section .nav_body .txt_wrap .btn_login{
+	display: inline-block;
+	border: solid 1px #3ea6ff;
+	padding: 10px 12px 8px;
+	font-size: 14px;
+	color: #3ea6ff;
+
+	margin-top: 12px;
+}
+
+#youtube_left_content #youtube_footer{
+	padding-bottom: 150px;
+}
+
+#youtube_left_content #youtube_footer .txt_wrap {
+	padding: 12px 24px 0;
+}
+
+#youtube_left_content #youtube_footer .txt_wrap a{
+	margin-right: 8px;
+	color: #aaaaaa;
+	font-size: 12px;
+	font-weight: 500;
+
+	word-break: keep-all;
+}
+
+#youtube_left_content #youtube_footer .txt_wrap p {
+	font-size: 12px;
+	color: #717171;
+	font-weight: 400;
+}
