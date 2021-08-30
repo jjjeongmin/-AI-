@@ -1,0 +1,93 @@
+/*유튜브 메인*/
+#youtube_main {
+	position: absolute;
+	left: 240px;
+	top: 56px;
+	right: 0;
+	bottom: 0;
+	background-color: grey;
+}
+
+#youtube_main_content {
+	width: 100%;
+	height: 100%;
+	padding: 24px;
+}
+
+#youtube_main_content ul {
+	width: 100%;
+	height: 100%;
+	align-items: flex-start;
+}
+
+#youtube_main_content ul li {
+	width: 24%;
+	background-color: #212121;
+	margin-bottom: 40px;
+}
+
+#youtube_main_content ul  li .video_thumbnail {
+	width: 100%;
+
+}
+
+#youtube_main_content ul  li .video_thumbnail a {
+	position: relative;
+	display: block;
+	width: 100%;
+
+}
+
+#youtube_main_content ul  li .video_thumbnail img {
+	width: 100%;
+}
+
+#youtube_main_content ul  li .video_thumbnail .time {
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.8);
+	font-size: 12px;
+	color: #fff;
+	padding: 3px 4px;
+	bottom: 4px;
+	right: 4px;
+}
+
+#youtube_main_content ul li .video_txt_wrap {
+	margin-top: 12px;
+}
+
+#youtube_main_content ul li .video_txt_wrap .image_link {
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin-right: 12px;
+}
+
+#youtube_main_content ul li .video_txt_wrap .image_link img {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
+
+#youtube_main_content ul li .video_txt_wrap .txt {
+	width: calc(100% - 48px)
+}
+
+#youtube_main_content ul li .video_txt_wrap .txt h3 {
+	font-size: 15px;
+	margin-bottom: 6px;
+}
+
+#youtube_main_content ul li .video_txt_wrap .txt h3 .title_link {
+	color: #fff;
+}
+
+
+#youtube_main_content ul li .video_txt_wrap .txt p {}
+
+
+#youtube_main_content ul li .video_txt_wrap .txt p .channel_link {}
+
+#youtube_main_content ul li .video_txt_wrap .txt .txt_bottom{
+
+}
