@@ -1,0 +1,203 @@
+<nav id="youtube_left_nav">
+			<div id="youtube_left_content">
+				<div class="nav_section">
+					<div class="nav_body">
+						<ul>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_1"></i>
+									<span>홈</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_2"></i>
+									<span>탐색</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_3"></i>
+									<span>구독</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav_section">
+					<div class="nav_body">
+						<ul>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_4"></i>
+									<span>보관함</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_5"></i>
+									<span>시청 기록</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav_section">
+					<div class="nav_body">
+						<div class="txt_wrap">
+							<p>로그인하면 동영상에 좋아요를 표시하고 댓글을 달거나 구독할 수 있습니다.</p>
+							<a href="#" class="btn_login">로그인</a>
+						</div>
+					</div>
+				</div>
+
+				<div class="nav_section">
+					<div class="nav_title_wrap">
+						<h2>인기 YOUTUBE</h2>
+					</div>
+					<div class="nav_body">
+						<ul>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_6"></i>
+									<span>음악</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_7"></i>
+									<span>스포츠</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_8"></i>
+									<span>영화</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_9"></i>
+									<span>뉴스</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_10"></i>
+									<span>실시간</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_11"></i>
+									<span>학습</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_12"></i>
+									<span>360' 영화</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav_section">
+					<div class="nav_body">
+						<ul>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_13"></i>
+									<span>채널 탐색</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav_section">
+					<div class="nav_title_wrap">
+						<h2>YOUTUBE 더보기</h2>
+					</div>
+					<div class="nav_body">
+						<ul>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_14"></i>
+									<span>YouTube Premium</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_15"></i>
+									<span>실시간</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="nav_section">
+					<div class="nav_body">
+						<ul>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_6"></i>
+									<span>설정</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_7"></i>
+									<span>신고 기록</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_8"></i>
+									<span>고객센터</span>
+								</a>
+							</li>
+							<li>
+								<a href="#" class="flex_align_start">
+									<i class="icon icon_9"></i>
+									<span>의견 보내기</span>
+								</a>
+							</li>
+
+						</ul>
+					</div>
+				</div>
+
+				<footer id="youtube_footer">
+					<div class="txt_wrap">
+						<a href="#">정보</a>
+						<a href="#">보도자료</a>
+						<a href="#">저작권</a>
+						<a href="#">문의하기</a>
+						<a href="#">크리에이터</a>
+						<a href="#">광고</a>
+						<a href="#">개발자</a>
+					
+					</div>
+					<div class="txt_wrap">
+						<a href="#">저작권</a>
+						<a href="#">개인정보처리방침</a>
+						<a href="#">정책 및 안전</a>
+						<a href="#">Youtube 자동의 원리</a>
+						<a href="#">새로운 기능 테스트 하기</a>
+					</div>
+					<div class="txt_wrap">
+						<p>© 2021 Google LLC
+							CEO: 선다 피차이
+							주소: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+							전화: 080-822-1450(무료)
+						</p>
+					</div>
+				</footer>
+
+			</div>
+		</nav>
