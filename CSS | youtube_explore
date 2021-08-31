@@ -1,0 +1,131 @@
+.explore_container {
+	width: 1280px;
+	margin: 0 auto;
+}
+
+#explore_nav {
+	padding: 12px 0 8px;
+}
+
+#explore_nav ul {}
+
+#explore_nav li {
+	overflow: hidden; 
+	width: 210px;
+	height: 116px;
+	
+}
+
+#explore_nav li a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	background-color: grey;
+	border-radius: 5px;
+}
+
+#explore_nav li a:hover {
+	background-color: darkgrey;
+}
+#explore_nav li .icon{
+	display: block;
+	width: 32px;
+	height: 32px;
+	background-color: red;
+	margin-bottom:25px;
+
+}
+
+#explore_nav li span{
+	color: #ffffff;
+	font-size: 16px;
+}
+
+#popular_section {
+	margin-top: 24px;
+}
+
+#popular_section h2 {
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#popular_section ul {
+	margin-top: 24px;
+}
+
+#popular_section li {
+	margin-bottom: 16px;
+}
+
+#popular_section li a {
+	align-items: flex-start;
+}
+
+#popular_section .image_wrap {
+	position: relative;
+	width: 246px;
+	height: 148px;
+	margin-right: 16px;
+}
+
+#popular_section .image_wrap img {
+	width: 100%;
+	height: 100%;
+}
+
+#popular_section .image_wrap .time {
+	position: absolute;
+	padding: 4px 8px 2px;
+	background-color: #212121;
+	color: #fff;
+	font-size: 12px;
+	border-radius: 5px;
+	bottom: 4px;
+	right: 4px;
+}
+
+#popular_section .txt_wrap {
+	width: 600px;
+
+}
+
+#popular_section .txt_wrap h3 {
+	font-size: 20px;
+	color: #ffffff;
+}
+
+#popular_section .txt_wrap .video_info {
+	color: #aaaaaa;
+	font-size: 14px;
+}
+
+#popular_section .txt_wrap .video_info span:after {
+	content: '';
+	display: inline-block;
+	width: 4px;
+	height: 4px;
+	background-color: #aaaaaa;
+	border-radius: 50%;
+
+	margin:6px 4px 0 8px;
+	vertical-align: top;
+}
+
+#popular_section .txt_wrap .video_info span:last-child:after{
+	content: none;
+}
+
+#popular_section .txt_wrap .video_info .channel{}
+
+#popular_section .txt_wrap .video_info .count{}
+
+#popular_section .txt_wrap .video_info .date {}
+
+#popular_section .txt_wrap .description{
+	padding-top: 8px;
+	font-size: 14px;
+	color: #aaaaaa;
+
+}
