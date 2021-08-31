@@ -1,11 +1,10 @@
-/*유튜브 메인*/
 #youtube_main {
 	position: absolute;
 	left: 240px;
 	top: 56px;
 	right: 0;
 	bottom: 0;
-	background-color: grey;
+	background-color: #212121;
 }
 
 #youtube_main_content {
@@ -18,6 +17,7 @@
 	width: 100%;
 	height: 100%;
 	align-items: flex-start;
+	align-content: flex-start;
 }
 
 #youtube_main_content ul li {
@@ -53,6 +53,7 @@
 }
 
 #youtube_main_content ul li .video_txt_wrap {
+	align-items: flex-start;
 	margin-top: 12px;
 }
 
@@ -83,11 +84,23 @@
 }
 
 
-#youtube_main_content ul li .video_txt_wrap .txt p {}
+#youtube_main_content ul li .video_txt_wrap .txt p {
+	font-size: 12px;
+}
 
 
-#youtube_main_content ul li .video_txt_wrap .txt p .channel_link {}
+#youtube_main_content ul li .video_txt_wrap .txt p .channel_link {
+	color: #aaaaaa;
+
+}
+
 
 #youtube_main_content ul li .video_txt_wrap .txt .txt_bottom{
 
+}
+
+#youtube_main_content ul li .video_txt_wrap .txt .txt_bottom .count,
+#youtube_main_content ul li .video_txt_wrap .txt .txt_bottom .date{
+	font-size: 12px;
+	color: #aaaaaa;
 }
